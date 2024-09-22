@@ -1,0 +1,16 @@
+// str -> functions
+
+
+// 1. Concatination -> strcat(x, y);
+char x[] = "Good"; 
+char y[] = "Work";
+strcat(x, y);
+printf("%s", x);
+
+// Output
+// GoodWork
+
+// 2. length  -> strlen(a);
+char x[] = "rakhi";
+int r = strlen(x);
+printf("%d",r);

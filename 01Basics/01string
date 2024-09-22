@@ -1,0 +1,18 @@
+1.we do not use "string" use -> char []
+ex ->
+char a[] = "rakhi";
+
+
+2.print index value of string
+char site[] = "CodeChef";
+printf("%c", site[0]);
+
+// Output
+// C
+
+
+
+3. scanf() -> "take user input
+ex = int a;
+     scanf("%d", &a);
+     "&a because scanf() needs the address (location) where it should store the value."
